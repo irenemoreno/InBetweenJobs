@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;pruebaWAp/gom_jabbar/Cart_test.rb&apos; to &apos;Cart_test2.rb&apos;" description="Rename resource &apos;Cart_test.rb&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="gom_jabbar/Cart_test.rb" name="Cart_test2.rb" stamp="1457770495454" updateReferences="true"/>
+</session>

@@ -31,3 +31,15 @@ class Cart
   end
 end
 
+  co = Cart.new
+    co.add("ME")
+    co.add("ME")
+    co.add("ME")
+    co.add("KR")
+    co.add("KR")
+    co.add("UN")
+ 
+
+  price = co.total
+    
+puts price
